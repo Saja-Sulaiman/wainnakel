@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #0b9496;
+    opacity: 0.85;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+.app-name {
+    display: inline;
+    color: white;
+    padding-right: 10px;
+    font-size: 25px;
+}
+

@@ -1,5 +1,20 @@
-body {
+@import '~antd/dist/antd.css';
+
+@font-face {
+  font-family: 'Tajawal Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('./fonts/Tajawal Bold'), url('./fonts/Tajawal-Bold.woff') format('woff');
+}
+
+html, body {
+  width: 100%;
+  height: 100vh;
   margin: 0;
+  
+}
+
+body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

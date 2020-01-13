@@ -1,0 +1,10 @@
+
+.button-group {
+  margin-top: 1rem;
+  opacity: 0.85;
+}
+
+.suggest-button {
+  padding-right: 5rem;
+  padding-left: 5rem;
+}
